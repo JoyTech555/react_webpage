@@ -1,0 +1,6 @@
+V.1.0                                                     Date : 01/01/2023
+- Learning React Router from scratch
+- How to direct to each pages by using Router
+   1. Home page (default)  http://localhost:3000/
+   2. About page           http://localhost:3000/about
+   3. Profile page         http://localhost:3000/profile
